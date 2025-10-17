@@ -1,0 +1,18 @@
+total 56
+drwxr-xr-x  2 root root 4096 Oct 17 05:01 .
+lrwxrwxrwx  1 root root   52 Oct 17 02:35 .#1-confused_smiley -> root@3bcd60e064ae4db3a546c5f550f1c7d9-2377118072.457
+drwxr-xr-x 10 root root 4096 Oct 17 02:35 ..
+-rwxr-xr-x  1 root root   32 Oct 17 02:35 0-hello_world
+-rwxr-xr-x  1 root root   28 Oct 17 02:35 1-confused_smiley
+-rwxr-xr-x  1 root root   28 Oct 17 02:35 2-hellofile
+-rwxr-xr-x  1 root root   39 Oct 17 02:35 3-twofiles
+-rwxr-xr-x  1 root root   33 Oct 17 02:58 4-lastlines
+-rwxr-xr-x  1 root root   33 Oct 17 03:01 5-firstlines
+-rwxr-xr-x  1 root root   40 Oct 17 04:09 6-third_line
+-rwxr-xr-x  1 root root   98 Oct 17 04:51 7-file
+-rwxr-xr-x  1 root root   36 Oct 17 05:01 8-cwd_state
+-rw-r--r--  1 root root  142 Oct 17 02:35 README.md
+-rw-r--r--  1 root root   12 Oct 17 04:40 \*\'"Best School"\'\*$\?\*\*\*\*\*:\)
+-rw-r--r--  1 root root   12 Oct 17 04:53 \*\\'"Best School"\'\\*$\?\*\*\*\*\*:)
+-rw-r--r--  1 root root    0 Oct 17 03:07 iacta
+-rw-r--r--  1 root root    0 Oct 17 05:01 ls_cwd_content
